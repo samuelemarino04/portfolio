@@ -1,14 +1,15 @@
 import './App.css'
 import AppRoutes from './routes/AppRoutes'
 import Footer from './components/Footer/Footer'
-import Sidebar from './components/Sidebar/Sidebar'
+import Navigation from './components/Navigation/Navigation'
+
 
 function App() {
 
   return (
     <div className="app">
 
-      <Sidebar />
+      <Navigation />
 
       <AppRoutes />
 
