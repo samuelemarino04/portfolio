@@ -13,7 +13,7 @@ const Navigation = () => {
             <div class="collapse navbar-collapse justify-content-end" id="navbarSupportedContent">
                 <ul class="navbar-nav">
                     <li class="nav-item"><a class="nav-link text-white" href="#sobre">About</a></li>
-                    <li class="nav-item"><a class="nav-link text-white" href="#portfolio" >Portfolio</a></li>
+                    <li class="nav-item"><a class="nav-link text-white" href="#portfolio" >Projects</a></li>
                     <li class="nav-item"><a class="nav-link text-white" href="#encontrame">Contact me</a></li>
                 </ul>
             </div>

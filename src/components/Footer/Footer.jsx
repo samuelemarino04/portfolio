@@ -8,9 +8,9 @@ const Footer = () => {
 
     return (
         <>
-            <div className="footer align-items-center justify-content-center" role="contentinfo" aria-label="Footer">
+            <div className="footer align-items-center justify-content-center bg-dark" role="contentinfo" aria-label="Footer">
                 <p className='company-name' role="contentinfo">
-                    © 2023 S.Marino
+                    © 2024 S.Marino
                 </p>
             </div>
 
