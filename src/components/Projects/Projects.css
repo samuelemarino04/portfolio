@@ -1,8 +1,3 @@
-a {
-    color: #212529;
-    text-decoration: none;
-}
-
 article {
     margin-bottom: 20px;
     padding: 10px;
@@ -34,7 +29,7 @@ article img {
     width: 100%;
     height: 100%;
     background-color: rgba(0, 0, 0, .7);
-    transition: all .5s;
+    transition: all .3s;
     z-index: 2;
     transform: translateX(-100%);
 
