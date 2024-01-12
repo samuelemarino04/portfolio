@@ -17,7 +17,7 @@ const Projects = () => {
                             <Button variant="outline-light" href="https://github.com/samuelemarino04/LabVideoJuego" target="_blank" rel="noopener noreferrer">Repository</Button>
                             <Button variant="outline-info" href="https://samuelemarino04.github.io/LabVideoJuego/" target="_blank" rel="noopener noreferrer">Web</Button>
                         </div>
-                        <img src="public/images/2Dvideogame.png" class="img-fluid" />
+                        <img src="/images/2Dvideogame.png" class="img-fluid" />
                     </article>
 
                     <article>
@@ -27,7 +27,7 @@ const Projects = () => {
                             <Button variant="outline-light" href="https://github.com/samuelemarino04/M2Project" target="_blank" rel="noopener noreferrer">Repository</Button>
                             <Button variant="outline-info" href="https://onlypizzas.fly.dev/" target="_blank" rel="noopener noreferrer">Web</Button>
                         </div>
-                        <img src="public/images/onlypizza.png" class="img-fluid" />
+                        <img src="/images/onlypizza.png" class="img-fluid" />
                     </article>
                     <article>
                         <div class="jod-desc">
@@ -37,7 +37,7 @@ const Projects = () => {
                             <Button variant="outline-light" href="https://github.com/samuelemarino04/Q-support-server" target="_blank" rel="noopener noreferrer">Server Repository</Button>
                             <Button variant="outline-info" href="https://creativesqplus.netlify.app/">Web</Button>
                         </div>
-                        <img src="public/images/singlepage.png" class="img-fluid" />
+                        <img src="/images/singlepage.png" class="img-fluid" />
                     </article>
                     <article>
                         <div class="jod-desc">
@@ -46,8 +46,7 @@ const Projects = () => {
                             <Button variant="outline-light" href="https://github.com/samuelemarino04/DevOpsProject" target="_blank" rel="noopener noreferrer">Repository</Button>
                             <Button variant="outline-primary" href="https://www.canva.com/design/DAF3CMZI3lU/Mhe6wX5tqPkpjIXR96GpQw/view?utm_content=DAF3CMZI3lU&utm_campaign=designshare&utm_medium=link&utm_source=editor" target="_blank" rel="noopener noreferrer">Presentation</Button>
                         </div>
-                        <img src="public/images/Devops2.png" class="img-fluid" />
-
+                        <img src="/images/Devops2.png" class="img-fluid" />
                     </article>
                 </div>
             </section>

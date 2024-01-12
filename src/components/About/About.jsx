@@ -10,7 +10,7 @@ const About = () => {
                 <h2 class="sobre" id="sobre">About</h2>
                 <div class="container sobre-container d-md-flex justify-content-md-around">
                     <div class="p-2 align-self-md-start">
-                        <img src="public/images/samuiron.jpg" alt="profile pic" className='samuiron' />
+                        <img src="/images/samuiron.jpg" alt="profile pic" className='samuiron' />
                     </div>
                     <div class="p-2 align-self-md-end">
                         <p class="text-justify">
