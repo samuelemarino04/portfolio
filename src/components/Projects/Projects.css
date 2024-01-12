@@ -21,7 +21,6 @@ article img {
 .jod-desc {
     margin-bottom: 20px;
     visibility: hidden;
-    overflow: hidden;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -36,7 +35,7 @@ article img {
 
     h3 {
         color: white;
-        font-size: 2rem;
+        font-size: 2em;
         letter-spacing: 2px;
         text-align: center;
         font-family: 'Heebo', sans-serif;
@@ -45,12 +44,52 @@ article img {
     p {
         color: white;
         font-weight: bolder;
+        font-size: 1.1em;
         letter-spacing: 1px;
         text-align: center;
         font-family: 'EB Garamond', serif;
     }
 
     .btn {
+        font-size: 1em;
         margin-top: 10px;
+    }
+
+    @media (max-width: 768px) {
+        h3 {
+            font-size: 1.5em;
+            /* Adjust font size for smaller screens */
+        }
+
+        p {
+            font-size: 0.9em;
+            /* Adjust font size for smaller screens */
+        }
+
+        .btn {
+            font-size: 0.8em;
+            /* Adjust font size for smaller screens */
+            margin-top: 0.8em;
+            /* Adjust as needed */
+        }
+    }
+
+    @media (max-width: 576px) {
+        h3 {
+            font-size: 1.2em;
+            /* Further adjust font size for even smaller screens */
+        }
+
+        p {
+            font-size: 0.8em;
+            /* Further adjust font size for even smaller screens */
+        }
+
+        .btn {
+            font-size: 0.7em;
+            /* Further adjust font size for even smaller screens */
+            margin-top: 0.7em;
+            /* Adjust as needed */
+        }
     }
 }
