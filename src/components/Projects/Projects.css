@@ -21,6 +21,7 @@ article img {
 .jod-desc {
     margin-bottom: 20px;
     visibility: hidden;
+    overflow: hidden;
     display: flex;
     flex-direction: column;
     justify-content: center;
