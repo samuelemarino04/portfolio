@@ -134,6 +134,13 @@ h6 {
   }
 }
 
+/* @media (max-width: 768px) {
+  .samuiron {
+    display: flex;
+    justify-content: center;
+  }
+} */
+
 @media (min-width: 768px) {
   .p-2 {
     width: 45%;

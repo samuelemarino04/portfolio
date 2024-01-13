@@ -9,7 +9,7 @@ const About = () => {
             <section class="container-fluid section-sobre">
                 <h2 class="sobre" id="sobre">About</h2>
                 <div class="container sobre-container d-md-flex justify-content-md-around">
-                    <div class="p-2 align-self-md-start">
+                    <div className="p-2 align-self-md d-flex justify-content-center">
                         <img src="/images/samuiron.jpg" alt="profile pic" className='samuiron' />
                     </div>
                     <div class="p-2 align-self-md-end">

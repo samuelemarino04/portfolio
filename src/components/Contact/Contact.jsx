@@ -25,8 +25,8 @@ const Contact = () => {
                             </a>
                         </Col>
                         <Col xs={12} md={4} className="d-flex align-items-center justify-content-center">
-                            <a href="https://github.com/samuelemarino04" target="_blank" rel="noopener noreferrer" style={{ display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
-                                <Image src="/images/github.png" width={'30%'} />
+                            <a href="https://github.com/samuelemarino04" target="_blank" rel="noopener noreferrer" style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', marginTop: '10px' }}>
+                                <Image src="/images/github.png" width={'25%'} />
                             </a>
                         </Col>
                     </Row>
